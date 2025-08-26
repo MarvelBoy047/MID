@@ -3,7 +3,7 @@
 # 🔍 MID: Mobile Information Detective
 ### *Phone ka CID*
 
-<a href="https://devfolio.co/">
+<a href="[https://devfolio.co/](https://mumbaihacks25-round1.devfolio.co/)">
   <img src="https://img.shields.io/badge/MumbaiHacks-2025-blue?style=for-the-badge&logo=devfolio" alt="MumbaiHacks 2025">
 </a>
 <a href="#-our-solution-mid-system">
